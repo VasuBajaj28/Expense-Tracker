@@ -1,5 +1,5 @@
 # Expense-Tracker
-Working Site :- https://app.netlify.com/sites/voluble-parfait-773d88/overview
+Working Site :- https://voluble-parfait-773d88.netlify.app/
 
 You can create and account 
 Add different budget
